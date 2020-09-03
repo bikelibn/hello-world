@@ -1,3 +1,3 @@
 # hello-world
-test repository
+test repository.
 I am a human being on planet Earth.
